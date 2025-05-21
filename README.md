@@ -25,13 +25,3 @@ Each player includes:
 
 All players are stored in a dynamically allocated array of `Player` objects.
 
-## Files
-
-- `top_chess_players.cpp` – Main source file
-
-##  Usage
-
-1. **Compile the project**:
-
-```bash
-g++ top_chess_players.cpp -o chess
