@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/zeynep/Desktop/tabularDataProject",
-      "program": "/Users/zeynep/Desktop/tabularDataProject/build/Debug/outDebug"
+      "cwd": "/Users/zeynep/Downloads",
+      "program": "/Users/zeynep/Downloads/build/Debug/outDebug"
     }
   ]
 }
